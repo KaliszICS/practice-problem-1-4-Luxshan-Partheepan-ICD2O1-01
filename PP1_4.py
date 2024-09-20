@@ -1,8 +1,7 @@
 
 
 def q1():
-  bottle = input("Input a word ")
-  print(bottle)
+  print(input("Input a word"))
 
 def q2():
   
@@ -25,7 +24,7 @@ def q4():
   print(f"Your students are {student1} and {student2}")
 #Do not edit code below this comment
 
-q1()
-q2()
-q3()
-q4()
+#q1()
+#q2()
+#q3()
+#q4()
