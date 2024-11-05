@@ -1,27 +1,27 @@
 
 
 def q1():
-  print(input("Input a word"))
+  word = input("Input a word: ")
+  print(word)
 
 def q2():
   
-  name = input("Input your first name")
-  print(f"hello {name}")
+  name = input("Input your first name: ")
+  print(f"Input your first name: Hello {name}")
   
 
 def q3():
 
-  firstname = input ("Input your first name")
-  lastname = input ("Input your last name")
-
-  print(f"{lastname}, {firstname}")
+  first_name = input("Input your first name: ")
+  last_name = input("Input your last name: ")
+  print(last_name, first_name)
 
 def q4():
 
-  student1 = input("Input a student:")
-  student2 = input("Input a second student:")
+  student_1 = input("Input a student: ")
+  student_2 = input("Input another student: ")
+  print(f"Input a student: Input another student: Your students are {student_1} and {student_2}")
 
-  print(f"Your students are {student1} and {student2}")
 #Do not edit code below this comment
 
 #q1()
