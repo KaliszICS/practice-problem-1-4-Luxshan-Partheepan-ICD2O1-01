@@ -6,7 +6,7 @@ def q1():
       
 def q2():
   
- first_name = input("Input your first name: ")
+  first_name = input("Input your first name: ")
   print(f"Input your first name: Hello {first_name}")
   
 
