@@ -1,13 +1,13 @@
 
 
 def q1():
-  word = input("Input a word: ")
-  print(f"{word}")
+ word = input("Input a word: ")
+print(word)
       
 def q2():
-  
   first_name = input("Input your first name: ")
-  print(f"Input your first name: Hello {first_name}")
+  print("Hello " + first_name)
+  
   
 
 def q3():
