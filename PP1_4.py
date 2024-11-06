@@ -19,9 +19,9 @@ def q3():
   
 
 def q4():
-  first_name = input("Input your first name: ")
-  last_name = input("Input your last name: ")
-  .print(f"{last_name} {first_name}")
+ first_name = input("Input your first name: ")
+ last_name = input("Input your last name: ")
+ print(f"{last_name} {first_name}")
 
  
 
